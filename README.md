@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Django<br>🎯 My main purpose is to become a Full Stack Software Developer and work in Amazon.<br>🎲 Fun fact: I am a hardworking girl who tries to achieve her goals.</p>
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Django<br>🎯 My main purpose is to become a successful Full Stack Software Developer..<br>🎲 Fun fact: I am a hardworking girl who tries to achieve her goals.</p>
 
 ###
 
